@@ -7,4 +7,3 @@ class TranState(StatesGroup):
     note = State()
 
 
-print()
